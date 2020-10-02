@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,9 @@
   },
   "homepage": "https://github.com/ojisan-toybox/ts-jest-practice#readme",
   "devDependencies": {
+    "@types/jest": "^26.0.14",
+    "jest": "^26.4.2",
+    "ts-jest": "^26.4.1",
     "typescript": "^4.0.3"
   }
 }
