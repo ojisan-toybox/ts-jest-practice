@@ -4,4 +4,6 @@
 npm run build
 
 node dist/index.js
+
+npm run test
 ```
