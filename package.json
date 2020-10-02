@@ -1,0 +1,22 @@
+{
+  "name": "ts-jest-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojisan-toybox/ts-jest-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ojisan-toybox/ts-jest-practice/issues"
+  },
+  "homepage": "https://github.com/ojisan-toybox/ts-jest-practice#readme",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
